@@ -6,4 +6,4 @@ LSTM model: https://nbviewer.jupyter.org/github/chaupmcs/HPCC_Classification/blo
 
 
 # HPCC_Clustering
-K-means++ and UMAP: https://nbviewer.jupyter.org/github/chaupmcs/HPCC_Classification/blob/master/HPCC_Cluster_20k.ipynb?flush_cache=true
+K-means++ and UMAP: https://nbviewer.jupyter.org/github/chaupmcs/HPCC_Classification/blob/master/HPCC_Cluster-MinMaxScaler-6k.ipynb?flush_cache=true
