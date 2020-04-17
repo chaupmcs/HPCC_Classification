@@ -14,11 +14,13 @@ Color of clusters:
 
 Running time:
  + Run SHAP for each compute: 256.15 seconds
- + Run SHAP for all computes (combine all the computes into 1 data): 84.33 seconds
+ + Run SHAP for all computes (combine all the computes into 1 data): 84.33 seconds. 
+ Results for the combine data:
+ [SHAP_VALUES](https://github.com/chaupmcs/HPCC_Classification/blob/master/SHAP_HPCC_cluster/SHAP_For_All_Computes/shap_dataframe/shap_importance_TotalData.csv); [SHAP_PICTURE](https://github.com/chaupmcs/HPCC_Classification/blob/master/SHAP_HPCC_cluster/SHAP_For_All_Computes/shap_pictures/dot_plot_TotalData.png) 
 
 Results:
  + 243 computes were skipped because they have only 1 label
- + Num of computes having SHAP: 224 + 1 (TotalData)  [SHAP_VALUES](https://github.com/chaupmcs/HPCC_Classification/blob/master/SHAP_HPCC_cluster/SHAP_For_All_Computes/shap_dataframe/shap_importance_TotalData.csv); [SHAP_PICTURE](https://github.com/chaupmcs/HPCC_Classification/blob/master/SHAP_HPCC_cluster/SHAP_For_All_Computes/shap_pictures/dot_plot_TotalData.png) 
+ + Num of computes having SHAP: 224 + 1 (TotalData)  
 
  + SHAP values: https://github.com/chaupmcs/HPCC_Classification/tree/master/SHAP_HPCC_cluster/SHAP_For_All_Computes/shap_dataframe
  + SHAP picture: https://github.com/chaupmcs/HPCC_Classification/tree/master/SHAP_HPCC_cluster/SHAP_For_All_Computes/shap_pictures
